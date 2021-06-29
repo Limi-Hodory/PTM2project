@@ -113,7 +113,8 @@ public class ViewModel extends Observable implements Observer {
     {
     	String toReturn = "";
     	for(String s : map.keySet())
-    		toReturn += map.get(s).toString();
+    		toReturn += map.get(s).toString() + ",";
+    	System.out.println(toReturn);
     	return toReturn;
     }
     
