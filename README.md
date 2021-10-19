@@ -1,4 +1,4 @@
-# PTM2project# FlightDetect
+# PTM2project- FlightDetect#
 A Java project we made during the semester.
 
 ## Introduction
